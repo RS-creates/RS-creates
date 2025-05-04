@@ -70,6 +70,6 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 ---
 
 > “Cybersecurity is not just a skill — it's a mindset.”  
-> – Rukhiat Yetunde Shobono
+> – Rukhiat Y. Sobona
 
 Thanks for visiting my GitHub! Don’t forget to ⭐ star any repo you find helpful 💻🔥
