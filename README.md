@@ -63,7 +63,7 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://http://linkedin.com/in/rukhiat-yetunde-sobona-mba-442520273)
+- 💼 [LinkedIn](http://linkedin.com/in/rukhiat-y-sobona-mba-442520273)
 - ✉ Email: ololajulo69@gmail.com  
 - 🌐 Portfolio Site (coming soon!)
 
